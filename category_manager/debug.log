@@ -1,0 +1,23 @@
+Watching for file changes with StatReloader
+"GET /admin/categories/category/ HTTP/1.1" 200 20812
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/categories/ HTTP/1.1" 200 5584
+"GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+"GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+"GET /api/ HTTP/1.1" 200 5460
+"GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 304 0
+"GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 304 0
+"GET /static/rest_framework/css/prettify.css HTTP/1.1" 304 0
+"GET /static/rest_framework/css/default.css HTTP/1.1" 304 0
+"GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 304 0
+"GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 304 0
+"GET /static/rest_framework/js/csrf.js HTTP/1.1" 304 0
+"GET /static/rest_framework/js/default.js HTTP/1.1" 304 0
+"GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 304 0
+"GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 304 0
+"GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 304 0
+"GET /static/rest_framework/img/grid.png HTTP/1.1" 304 0
+"GET /api/categories/ HTTP/1.1" 200 20482
+"POST /api/categories/ HTTP/1.1" 201 11911
+"GET /api/category-list/ HTTP/1.1" 200 8579
+"GET /media/category_images/icons8-share-50.png HTTP/1.1" 200 812

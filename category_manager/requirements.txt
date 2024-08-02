@@ -1,0 +1,6 @@
+django
+Pillow
+toml
+django-mptt
+djangorestframework-simplejwt
+requests

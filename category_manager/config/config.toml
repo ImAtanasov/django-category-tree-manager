@@ -1,0 +1,13 @@
+# config/config.toml
+
+[database]
+engine = "django.db.backends.sqlite3"
+name = "db.sqlite3"
+
+[server]
+host = "127.0.0.1"
+port = 8000
+
+[settings]
+debug = true
+allowed_hosts = ["*"]
